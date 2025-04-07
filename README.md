@@ -51,4 +51,4 @@ Make sure the files are in the same folder.
 ## Author
 
 **Yasmine Elsisi**  
-GitHub: [github.com/YasmineElsisi](https://github.com/YasmineElsisi)
+
